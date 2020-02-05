@@ -1,3 +1,5 @@
 Change 1
-Bug fix
 bug fix again
+
+Master change.
+Bug fix
